@@ -65,4 +65,4 @@ You can change on which image the classifier is run by editing the `read_seals.p
 
 To demonstrate the whole pipeline of inference consisting of the 3 steps (detection, classification, transcription) that allows going from an image of a seal to the extracted character sequence, another repository has been set-up here:
 
-### https://gitub.com/idsinge/ocrseals
+### [https://github.com/idsinge/ocrseals](https://github.com/idsinge/ocrseals)
